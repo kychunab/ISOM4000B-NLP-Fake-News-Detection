@@ -1,0 +1,1 @@
+This files contain picture of results of GRU model during model tunning
